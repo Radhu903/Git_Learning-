@@ -1,0 +1,36 @@
+#### Contributor: Radhu Ladani
+### Natural Language Toolkit (NLTK)
+- The Natural Language Toolkit, or more commonly NLTK, is a suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language.
+- NLTK contains text processing libraries for tokenization, parsing, classification, stemming, tagging and sematic reasoning.
+### Documentation
+[Natural Language Toolkit (NLTK)](https://www.nltk.org/)
+### Installation
+- We can install NLTK on Windows as follow the below steps:
+   - First, open the Windows command prompt and navigate to the location of the pip folder.
+   - Next, enter the following command to install NLTK:
+  
+     ``pip install nltk``
+
+- Now, open the PythonShell from Windows Start Menu and type the following command in order to verify NLTK’s installation:
+  ``Import nltk``
+
+If you get no error, you have successfully installed NLTK on your Windows OS having Python3.
+
+### What is Natural Language Processing (NLP)?
+- The method of communication with the help of which humans can speak, read, and write, is language. In other words, we humans can think, make plans, make decisions in our natural language. Here the big question is, in the era of artificial intelligence, machine learning and deep learning, can humans communicate in natural language with computers/machines? Developing NLP applications is a huge challenge for us because computers require structured data, but on the other hand, human speech is unstructured and often ambiguous in nature.
+- Natural language is that subfield of computer science, more specifically of AI, which enables computers/machines to understand, process and manipulate human language. In simple words, NLP is a way of machines to analyze, understand and derive meaning from human natural languages like Hindi, English, French, Dutch, etc.
+
+### How does it work?
+- Before getting deep dive into the working of NLP, we must have to understand how human beings use language. Every day, we humans use hundreds or thousands of words and other humans interpret them and answer accordingly. It’s a simple communication for humans, isn’t it? But we know words run much-much deeper than that and we always derive a context from what we say and how we say. That’s why we can say rather than focuses on voice modulation, NLP does draw on contextual pattern.
+-Let us understand it with an example −
+```
+Man is to woman as king is to what?
+We can interpret it easily and answer as follows:
+Man relates to king, so woman can relate to queen.
+Hence the answer is Queen.
+```
+- How humans know what word means what? The answer to this question is that we learn through our experience. But, how do machines/computers learn the same? Let us understand it with following easy steps:
+   - First, we need to feed the machines with enough data so that machines can learn from experience.
+   - Then machine will create word vectors, by using deep learning algorithms, from the data we fed earlier as well as from its surrounding data.
+   - Then by performing simple algebraic operations on these word vectors, machine would be able to provide the answers as human beings.
+
