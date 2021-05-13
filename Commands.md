@@ -21,7 +21,7 @@ Then, after making changes in my local master branch,
 ```
 git status
 git add .
-git commit -m 'whatever'
+git commit -m 'your message'
 git show-ref
 git push origin HEAD:branch_name
 
