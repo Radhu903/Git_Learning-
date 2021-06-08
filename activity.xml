@@ -3,17 +3,6 @@
  <desc>A dictionary of 438 essential oil or constituent compound biochemical and/or biological activities</desc>
  <metadata role="query">medicinal activity</metadata>
  <metadata role="query">essential oil</metadata>
-  <entry description="Agents that are put on the skin to reduce sweating or prevent excess sweating (hyperhidrosis)" name="Antiperspirants" term="Antiperspirants" wikidataURL="http://www.wikidata.org/entity/Q1423889" wikidataID="Q1423889">
-    <synonym xml:lang="de">Antitranspirant</synonym>
-    <synonym xml:lang="fr">anti-transpirant</synonym>
-    <synonym>Antihidrotic</synonym>
-  </entry>
-  <entry description="A substance causing the halt in the production of sebum (sebostasis) by the sebaceous glands." name="Sebostatic" term="Sebostatic" wikidataURL="http://www.wikidata.org/entity/Q1696730" wikidataID="Q1696730">
-    <synonym xml:lang="de">Sebostase</synonym>
-    <synonym xml:lang="fr">sébostatique</synonym>
-    <synonym xml:lang="es">sebostasis</synonym>
-    <synonym>sebostasis agent</synonym>
-  </entry>
   <entry description="drug that induces vomiting" name="emetic" term="emetic" wikidataURL="http://www.wikidata.org/entity/Q1930829" wikidataID="Q1930829">
     <description xml:lang="de">Erbrechen herbeiführende Substanz</description>
     <description xml:lang="fr">médicament destiné à faire vomir</description>
